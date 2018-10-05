@@ -1,10 +1,3 @@
-"""
-ICS 32 Project 2
-
-UCI_ID: 68168196 Name: Lillian Pham
-UCI_ID: 24492089 Name: Wei Zhang
-"""
-
 import socket
 from collections import namedtuple
 import shared_module as cf
