@@ -1,8 +1,3 @@
-# connectfour.py
-#
-# ICS 32 Spring 2017
-# Project #2: Send Me On My Way
-
 '''
 This module contains the game logic that underlies a Connect Four
 game, implementing such functionality as tracking the state of a game,
